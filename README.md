@@ -7,9 +7,11 @@
 pip install vk_api,
 pip install colorama
 ---------------------------
+Инструкция:
 Затем запускаем сам скрипт
 python3 VKNakrutka.py
 
 Затем нас просит ввести токен
 Заходим на этот сайт https://vkhost.github.io
-Далее "Kate Mobile"
+Далее нажимаем "Kate Mobile"
+
