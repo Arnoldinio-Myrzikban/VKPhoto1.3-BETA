@@ -4,8 +4,7 @@
 БЕТА ВЕРСИЯ!
 
 Пропишите:
-pip install vk_api
-Затем
+pip install vk_api,
 pip install colorama
 ---------------------------
 Затем запускаем сам скрипт
