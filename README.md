@@ -13,6 +13,7 @@ pip install colorama
 python3 VKNakrutka.py
 
 Затем нас просит ввести токен
+
 Заходим на этот сайт https://vkhost.github.io
 Далее нажимаем "Kate Mobile"
 
